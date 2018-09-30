@@ -6,7 +6,7 @@ import time
 #Updating DataBase
 def dbs(x):
     '''
-    Orginize text and saves to DB
+    Organize text and saves to DB
     :param x:
     :return void:
     '''
